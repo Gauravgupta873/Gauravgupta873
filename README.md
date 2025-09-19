@@ -190,7 +190,3 @@
 
 ---
 
-### Notes
-
-* This README is ready to copy & paste as `README.md` in your GitHub profile repo.
-* Want me to also: add skill badges, a one-line resume at the top, or make a LinkedIn-friendly version? Reply and I'll update it.
