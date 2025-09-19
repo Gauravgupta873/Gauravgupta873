@@ -44,50 +44,42 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Tech Stack
 
-<!-- core technologies only, minimal list -->
+### Core (short)
 
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td width="120" align="center">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td width="120" align="center">
-      <img src="https://techstack-generator.vercel.app/node-icon.svg" alt="Node" width="65" height="65" />
-      <br>Node.js
-    </td>
-    <td width="120" align="center">
-      <img src="https://techstack-generator.vercel.app/mongo-icon.svg" alt="MongoDB" width="65" height="65" />
-      <br>MongoDB
-    </td>
-    <td width="120" align="center">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
-    </td>
-  </tr>
-</table>
+* JavaScript • TypeScript • React • Node.js • MongoDB • Docker
 
-### 🌐 Frontend
+---
 
-React
+### 🌐 Frontend (expanded)
 
-### ⚙️ Backend
+* **Frameworks & Libraries:** React, Next.js, Vite
+* **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+* **Styling & UI:** Tailwind CSS, Bootstrap, Material UI, Chakra UI, SASS/SCSS
+* **State & Data:** Redux, Context API, React Query (TanStack Query)
+* **Routing & Rendering:** React Router, Next.js Routing & SSR/SSG
+* **Testing:** Jest, React Testing Library, Cypress (E2E)
+* **Build & Tooling:** Webpack, Vite, Babel, ESLint, Prettier
+* **UX & Accessibility:** Responsive Design, ARIA, WCAG basics, Keyboard Navigation
+* **Animation & Micro-interactions:** Framer Motion, CSS transitions
+* **Other:** PWA fundamentals, Internationalization (i18n), Performance Optimization (Lighthouse)
 
-Node.js
+### ⚙️ Backend (expanded)
 
-### ☁️ DevOps & Cloud
-
-Docker
+* **Runtime & Frameworks:** Node.js, Express.js, NestJS (familiar)
+* **APIs:** RESTful APIs, GraphQL (Apollo Server)
+* **Databases:** MongoDB (Mongoose), PostgreSQL, MySQL
+* **ORM / DB Tools:** Prisma, TypeORM, Sequelize
+* **Caching & Messaging:** Redis, RabbitMQ, BullMQ (background jobs)
+* **Auth & Security:** JWT, OAuth2, Passport.js, role-based access control, OWASP basics
+* **Testing & Quality:** Jest, Supertest, integration testing, contract testing
+* **DevOps Basics:** Docker, Docker Compose, CI/CD pipelines (GitHub Actions), Nginx
+* **Observability:** Logging (Winston/Pino), Monitoring & Metrics, Structured logs
+* **Scalability:** Microservices patterns, API Gateways, Rate Limiting, Horizontal scaling
+* **Other:** Serverless (AWS Lambda), File storage (S3), Email services, Payment integration (Stripe)
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" height="30" /> Featured Projects
-
-<!-- Project cards and table: names and descriptions only (no links, no graphs) -->
 
 <div align="center">
   <div style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center;margin-top:8px;">
@@ -109,7 +101,9 @@ Docker
   </div>
 </div>
 
-<!-- Simple table without links -->
+---
+
+## Projects Table
 
 <table style="width:100%;margin-top:16px;border-collapse:collapse;">
   <tr style="background:#f7fafc;text-align:left;">
@@ -193,3 +187,10 @@ Docker
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=36BCF7FF&center=true&width=500&lines=Thanks+for+visiting+my+GitHub+profile!;Let's+build+something+amazing+together!;⚡+Code.+Create.+Innovate.+⚡" alt="Typing SVG" />
 </div>
+
+---
+
+### Notes
+
+* This README is ready to copy & paste as `README.md` in your GitHub profile repo.
+* Want me to also: add skill badges, a one-line resume at the top, or make a LinkedIn-friendly version? Reply and I'll update it.
